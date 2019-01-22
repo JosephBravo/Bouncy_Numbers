@@ -18,7 +18,7 @@ def bouncy_number(num):
             return True
     return False
 
-# Comparacion a traves de los numeros hasta que el recuento inflable es del 90% y 99%
+# Comparacion los numeros hasta que el recuento inflable es del 90% y 99%
 
 count = 0
 p = 90
